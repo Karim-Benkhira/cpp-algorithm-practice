@@ -18,7 +18,7 @@ This repository is my workspace for tackling various C++ coding exercises. Each 
 - **`exercise_2/`**: The second exercise, with its description and my C++ implementation.
 - **`exercise_3/`**: ...
 
-> Add more folders as you work on additional exercises.
+
 
 ## How to Use
 
