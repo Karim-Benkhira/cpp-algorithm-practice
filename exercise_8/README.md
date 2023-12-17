@@ -22,15 +22,15 @@ The `main` function calls these functions to read three numbers from the user, c
 
 ## About
 
-Hello! 👋 My name is [Karim Benkhira], a Software Engineering student and aspiring ethical hacker. I created this C++ program as part of my journey to enhance my programming skills and explore the world of cybersecurity.
+Hello! 👋 My name is Karim Benkhira, a Software Engineering student and aspiring ethical hacker. I created this C++ program as part of my journey to enhance my programming skills and explore the world of cybersecurity.
 
 ### Author
 
 - **Name:** [Karim Benkhira]
 - **Occupation:** Software Engineering Student
-- **LinkedIn:** [Karim-Benkhira](www.linkedin.com/in/karim-benkhira-206597224) (optional)
+- **LinkedIn:** [Karim-Benkhira](www.linkedin.com/in/karim-benkhira-206597224)
 - **GitHub:** [Karim-Benkhira](https://github.com/Karim-Benkhira)
-- **Twitter:** [Karim_Benkhira](https://twitter.com/Karim_Benkhira) (optional)
+- **Twitter:** [Karim_Benkhira](https://twitter.com/Karim_Benkhira)
 
 ### Cybersecurity Enthusiast
 
