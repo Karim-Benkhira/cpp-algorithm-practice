@@ -26,7 +26,7 @@ Hello! 👋 My name is Karim Benkhira, a Software Engineering student and aspiri
 
 ### Author
 
-- **Name:** [Karim Benkhira]
+- **Name:** Karim Benkhira
 - **Occupation:** Software Engineering Student
 - **LinkedIn:** [Karim-Benkhira](www.linkedin.com/in/karim-benkhira-206597224)
 - **GitHub:** [Karim-Benkhira](https://github.com/Karim-Benkhira)
