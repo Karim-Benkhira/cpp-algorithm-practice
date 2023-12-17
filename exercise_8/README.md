@@ -53,3 +53,18 @@ int main()
     PrintResult(Sum3Numbers(number1, number2, number3));
     return 0;
 }
+
+
+### Author
+
+- **Name:** [Karim Benkhira]
+- **Occupation:** Software Engineering Student
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/karim-benkhira-206597224) (optional)
+- **GitHub:** [Your GitHub Profile](https://github.com/Karim-Benkhira)
+- **Twitter:** [Your Twitter Profile](https://twitter.com/Karim_Benkhira) (optional)
+
+### Cybersecurity Enthusiast
+
+I am also passionate about ethical hacking and cybersecurity. Currently, I am a beginner in penetration testing and constantly learning new techniques to enhance my skills.
+
+Feel free to connect with me on social media or check out my GitHub repositories!
