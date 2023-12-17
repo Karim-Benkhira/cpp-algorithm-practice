@@ -18,6 +18,28 @@ The `main` function calls these functions to read three numbers from the user, c
 3. Compile the program using your preferred C++ compiler.
 4. Run the executable.
 
+---
+
+## About
+
+Hello! 👋 My name is [Karim Benkhira], a Software Engineering student and aspiring ethical hacker. I created this C++ program as part of my journey to enhance my programming skills and explore the world of cybersecurity.
+
+### Author
+
+- **Name:** [Karim Benkhira]
+- **Occupation:** Software Engineering Student
+- **LinkedIn:** [Karim-Benkhira](www.linkedin.com/in/karim-benkhira-206597224) (optional)
+- **GitHub:** [Karim-Benkhira](https://github.com/Karim-Benkhira)
+- **Twitter:** [Karim_Benkhira](https://twitter.com/Karim_Benkhira) (optional)
+
+### Cybersecurity Enthusiast
+
+I am also passionate about ethical hacking and cybersecurity. Currently, I am a beginner in penetration testing and constantly learning new techniques to enhance my skills.
+
+Feel free to connect with me on social media or check out my GitHub repositories!
+
+---
+
 ## Example
 
 ```cpp
@@ -53,26 +75,3 @@ int main()
     PrintResult(Sum3Numbers(number1, number2, number3));
     return 0;
 }
-
-```cpp
----
-
-## About
-
-Hello! 👋 My name is [Karim Benkhira], a Software Engineering student and aspiring ethical hacker. I created this C++ program as part of my journey to enhance my programming skills and explore the world of cybersecurity.
-
-### Author
-
-- **Name:** [Karim Benkhira]
-- **Occupation:** Software Engineering Student
-- **LinkedIn:** [Karim-Benkhira](www.linkedin.com/in/karim-benkhira-206597224) (optional)
-- **GitHub:** [Karim-Benkhira](https://github.com/Karim-Benkhira)
-- **Twitter:** [Karim_Benkhira](https://twitter.com/Karim_Benkhira) (optional)
-
-### Cybersecurity Enthusiast
-
-I am also passionate about ethical hacking and cybersecurity. Currently, I am a beginner in penetration testing and constantly learning new techniques to enhance my skills.
-
-Feel free to connect with me on social media or check out my GitHub repositories!
-
----
