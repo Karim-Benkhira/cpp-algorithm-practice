@@ -1,6 +1,6 @@
 ### Author
 
-- **Name:** [Karim Benkhira]
+- **Name:** Karim Benkhira
 - **Occupation:** Software Engineering Student
 - **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/karim-benkhira-206597224) (optional)
 - **GitHub:** [Your GitHub Profile](https://github.com/Karim-Benkhira)
