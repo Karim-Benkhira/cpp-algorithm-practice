@@ -28,7 +28,7 @@ Hello! 👋 My name is Karim Benkhira, a Software Engineering student and aspiri
 
 - **Name:** Karim Benkhira
 - **Occupation:** Software Engineering Student
-- **LinkedIn:** [karim-benkhira-206597224](www.linkedin.com/in/karim-benkhira-206597224)
+- **LinkedIn:** [karim-benkhira-206597224](https://linkedin.com/in/karim-benkhira-206597224)
 - **GitHub:** [Karim-Benkhira](https://github.com/Karim-Benkhira)
 - **Twitter:** [Karim_Benkhira](https://twitter.com/Karim_Benkhira)
 
