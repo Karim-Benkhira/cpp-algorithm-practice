@@ -5,7 +5,7 @@ using namespace std;
 int ReaNumber()
 {
   int Number;
-  cout << "PLease Enter Number : " << endl;
+  cout << "Please Enter Number : " << endl;
   cin >> Number;
   return Number;
 }
@@ -23,5 +23,6 @@ void Powerof2_3_4(int number)
 int main()
 {
   Powerof2_3_4(ReaNumber());
+
   return 0;
 }
