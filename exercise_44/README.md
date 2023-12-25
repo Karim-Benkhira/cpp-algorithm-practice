@@ -30,7 +30,7 @@ for(char alpha = 'A'; alpha <= 'Z'; alpha++)
 {
   cout << alpha << endl;
 }
-
+```
 ### Author
 
 - **Name:** Karim Benkhira
