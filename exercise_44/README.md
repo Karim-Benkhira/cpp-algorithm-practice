@@ -20,6 +20,17 @@ A function designed to print letters from 'A' to 'Z' using a for loop.
 
 The main entry function that calls `PrintLettersAtoZ` to print the letters.
 
+## Modifying the Program
+
+If you wish to change the range of letters to be printed, you can adjust the minimum and maximum values in the for loop within the `PrintLettersAtoZ` function.
+
+```cpp
+// Change 'A' and 'Z' to the letters you desire
+for(char alpha = 'A'; alpha <= 'Z'; alpha++)
+{
+  cout << alpha << endl;
+}
+
 ### Author
 
 - **Name:** Karim Benkhira
@@ -33,14 +44,3 @@ The main entry function that calls `PrintLettersAtoZ` to print the letters.
 I am also passionate about ethical hacking and cybersecurity. Currently, I am a beginner in penetration testing and constantly learning new techniques to enhance my skills.
 
 Feel free to connect with me on social media or check out my GitHub repositories!
-
-## Modifying the Program
-
-If you wish to change the range of letters to be printed, you can adjust the minimum and maximum values in the for loop within the `PrintLettersAtoZ` function.
-
-```cpp
-// Change 'A' and 'Z' to the letters you desire
-for(char alpha = 'A'; alpha <= 'Z'; alpha++)
-{
-  cout << alpha << endl;
-}
