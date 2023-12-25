@@ -1,27 +1,25 @@
-# Print Letters from A to Z
+# Simple Letter Printer
 
-This simple C++ program aims to print letters from A to Z. It can be used as an educational example to understand how to create and call functions in C++.
+This C++ program is a straightforward application that prints letters from 'A' to 'Z'. It serves as a basic example to showcase function creation and usage in C++.
 
 ## How to Use the Program
 
-1. Download the code.
-2. Open the file named "main.cpp" in your preferred text editor.
-
-## How to Run the Program
-
-You can run the program using any C++ development environment. You can use environments like Code::Blocks, Visual Studio, or GCC in the command line.
+1. Ensure you have a C++ compiler installed on your system.
+2. Clone the repository to your local machine.
+3. Open the file named "main.cpp" in your preferred text editor.
+4. Compile the program using your C++ compiler.
+5. Run the executable.
 
 ## Program Structure
 
 ### `PrintLettersAtoZ` Function:
-A function that prints letters from A to Z using a for loop.
+
+A function designed to print letters from 'A' to 'Z' using a for loop.
 
 ### `main` Function:
-The main entry function. It calls `PrintLettersAtoZ` to print the letters.
 
-## Modifying the Program
+The main entry function that calls `PrintLettersAtoZ` to print the letters.
 
-If you want to change the range of letters to be printed, you can modify the minimum and maximum values in the for loop in the `PrintLettersAtoZ` function.
 ### Author
 
 - **Name:** Karim Benkhira
@@ -36,8 +34,12 @@ I am also passionate about ethical hacking and cybersecurity. Currently, I am a 
 
 Feel free to connect with me on social media or check out my GitHub repositories!
 
+## Modifying the Program
+
+If you wish to change the range of letters to be printed, you can adjust the minimum and maximum values in the for loop within the `PrintLettersAtoZ` function.
+
 ```cpp
-// Change 'A' and 'Z' to the letters you want
+// Change 'A' and 'Z' to the letters you desire
 for(char alpha = 'A'; alpha <= 'Z'; alpha++)
 {
   cout << alpha << endl;
