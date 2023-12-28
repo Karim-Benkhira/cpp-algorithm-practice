@@ -38,10 +38,6 @@ The program consists of two functions:
 
 The main entry function prompts the user to enter a positive number and then calls `PrintPerfectNumber` to check and display whether the number is perfect or not.
 
-## Modifying the Program
-
-If you want to customize the program or extend the range for checking perfect numbers, you can modify the code in the "main.cpp" file.
-
 ## Example
 
 ```cpp
