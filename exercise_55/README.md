@@ -25,16 +25,6 @@ The program consists of two functions:
 4. Compile the program using your C++ compiler.
 5. Run the executable.
 
-## Program Structure
-
-### `main` Function:
-
-The main entry function prompts the user to enter a positive number and a digit to check. It then calls `countDigitFrequency` to calculate and display the frequency of the specified digit in the entered number.
-
-## Modifying the Program
-
-If you want to customize the program or add additional features, you can modify the code in the "main.cpp" file.
-
 ## Example
 
 ```cpp
