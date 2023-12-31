@@ -45,7 +45,7 @@ void PrintAllDigitFrequency(int Number)
 
 int main()
 {
-  int Number = ReadNumber("Please Enter a positive Number : ");
+  int Number = ReadNumber("Please Enter a Positive Number : ");
 
   PrintAllDigitFrequency(Number);
 
