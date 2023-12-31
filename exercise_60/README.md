@@ -25,15 +25,6 @@ The program consists of two functions:
 4. Compile the program using your C++ compiler.
 5. Run the executable.
 
-## Program Structure
-
-### `main` Function:
-
-The main entry function prompts the user to enter a positive number and calls `invertedPattern` to print the inverted pattern.
-
-## Modifying the Program
-
-If you want to customize the program or add additional features, you can modify the code in the "main.cpp" file.
 
 ## Example
 
