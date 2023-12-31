@@ -30,15 +30,6 @@ The program consists of three functions:
 4. Compile the program using your C++ compiler.
 5. Run the executable.
 
-## Program Structure
-
-### `main` Function:
-
-The main entry function prompts the user to enter a positive number, calls `NumberReverse` to reverse the digits, and then calls `PrintNumber` to display each digit on a new line.
-
-## Modifying the Program
-
-If you want to customize the program or add additional features, you can modify the code in the "main.cpp" file.
 
 ## Example
 
