@@ -14,20 +14,6 @@ The program uses three nested loops to generate combinations of letters ranging 
 4. Compile the program using your C++ compiler.
 5. Run the executable.
 
-## Program Structure
-
-### `PrintallwordsFromAAAtoZZZ` Function:
-
-- Uses three nested loops to iterate through all combinations of letters from A to Z.
-- Prints each combination on a new line.
-
-### `main` Function:
-
-- Calls the `PrintallwordsFromAAAtoZZZ` function to execute the program.
-
-## Modifying the Program
-
-If you want to customize the program or adjust the range of letters, you can modify the code in the "main.cpp" file.
 
 ## Example
 
