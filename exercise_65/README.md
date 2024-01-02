@@ -44,9 +44,6 @@ The program uses a Caesar cipher to encrypt and decrypt the entered text. It inc
 - Calls the `ReadText`, `EncyptText`, and `DecryptText` functions to execute the program.
 - Displays the original text, encrypted text, and decrypted text.
 
-## Modifying the Program
-
-If you want to customize the program or change the key, you can modify the code in the "main.cpp" file.
 
 ## Example
 
