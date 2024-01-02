@@ -27,9 +27,6 @@ The program includes a function `RandomNumber` that takes two integer parameters
 - Seeds the random number generator using `srand((unsigned)time(NULL))`.
 - Calls the `RandomNumber` function to generate and print random numbers.
 
-## Modifying the Program
-
-If you want to customize the program or change the range of random numbers, you can modify the code in the "main.cpp" file.
 
 ## Example
 
