@@ -5,7 +5,7 @@ using namespace std;
 
 int RanDom(int From,int To)
 {
-    int RandNB = rand() % (To - From + 1) + 1;
+    int RandNB = rand() % (To - From + 1) + From;
     return RandNB;
 }
 
