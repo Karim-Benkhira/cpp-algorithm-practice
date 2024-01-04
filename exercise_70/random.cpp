@@ -11,7 +11,7 @@ int RanDom(int From,int To)
 
 void ReadRandomNumberarray(int array[],int &arraylength)
 {
-    cout << "Please Enter Number of element : "<< endl;
+    cout << " Please Enter Number of element : "<< endl;
     cin >> arraylength;
 
     for(int i = 0;i < arraylength;i++)
