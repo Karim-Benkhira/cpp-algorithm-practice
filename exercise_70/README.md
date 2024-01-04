@@ -39,9 +39,6 @@ The program contains functions to generate an array of random numbers, print the
 - Calls `ReadRandomNumberarray` to fill the array with random numbers.
 - Prints the array using `Printarray`.
 
-## Modifying the Program
-
-If you want to customize the program or use it as part of a larger project, you can modify the code in the "main.cpp" file.
 
 ## Example
 
