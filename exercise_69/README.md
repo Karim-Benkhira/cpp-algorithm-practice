@@ -47,9 +47,6 @@ The program consists of several functions that facilitate array input, array pri
 - Prints the original array using `PrintArray`.
 - Calls `TimesRepeated` to calculate and print the frequency of the specified number.
 
-## Modifying the Program
-
-If you want to customize the program or use it as part of a larger project, you can modify the code in the "main.cpp" file.
 
 ## Example
 
