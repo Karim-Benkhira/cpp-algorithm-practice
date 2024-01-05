@@ -46,10 +46,6 @@ The program contains functions to generate an array of random numbers, check the
 - Prints the array using `PrintArrayElent`.
 - Calls `MinNumberofelement` to find and print the minimum element.
 
-## Modifying the Program
-
-If you want to customize the program or use it as part of a larger project, you can modify the code in the "main.cpp" file.
-
 ## Example
 
 ```cpp
