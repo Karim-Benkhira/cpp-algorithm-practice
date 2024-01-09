@@ -41,29 +41,25 @@ void PrintElement(int Array[100],int arraylength)
     cout << endl;
 }
 
-void ReverseElement(int array[100],int arraylength)
+void ReverseElement(int array[100],int arrayrev[100],int arraylength)
 {
-    int swp = 0;
     for(int i = 0;i < arraylength;i++)
     {
-        for ( int j = 0; i < arraylength; j++)
-        {
-            if(array[i]  < array[i + 1])
-                swp = array[i + 1];
-        }
-        cout << swp << " ";
-        
+        arrayrev[i] = array[arraylength - 1 - i];
     }
 }
 
 int main()
 {
     int array[100],arraylength;
+    int arrayrev[100];
 
     ReadElement(array,arraylength);
     cout << "Array element : " << endl;
     PrintElement(array,arraylength);
     
-    ReverseElement(array,arraylength);
+    ReverseElement(array,arrayrev,arraylength);
+    cout << "\nArray 2 elements after copying array1 in reversed order:\n";
+    PrintElement(arrayrev,arraylength);
     return 0;
 }
